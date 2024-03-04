@@ -14,7 +14,7 @@
 | Name | Description | Tools |
 | --- | --- | --- |
 | [Квест по лагерю Чайка](https://github.com/pickling-21/kids_arboretum) | Телеграмм бот | Python, Telebot |
-| [Эволюция доверия](git@github.com:pickling-21/game_of_trust.git) | Игра, которая исследует теорию игр и эволюцию доверия в обществе| Python |
+| [Эволюция доверия](https://github.com/pickling-21/game_of_trust) | Игра, которая исследует теорию игр и эволюцию доверия в обществе| Python |
 | [Redis](https://github.com/pickling-21/redis) | Парсинг и изменение сайта с помощью библиотеки Beautifulsoup, отправка и редактирование транзакций с помощью redis.  | Python, Beautifulsoup, Redis|
 | [Калькулятор](https://github.com/pickling-21/s21_smart_calc_cpp) | Калькулятор на С++ с использованием MVC | C++, Qt | 
 | [3DViewer](https://github.com/pickling-21/cpp_3DViewer) | Показывает 3D модели. Использованы паттерны Стратегия, Синглтон и Фасад | C++, Qt | 
