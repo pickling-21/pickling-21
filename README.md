@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safiya</h1>
-<h3 align="center">A passionate backend developer from Kazan, Russia</h3>
+<h3 align="center">A python backend developer from Kazan, Russia</h3>
 
 - 🔭 I’m currently working on [algoritms](git@github.com:pickling-21/algorithms.git)
 
